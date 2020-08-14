@@ -342,7 +342,7 @@ font-family: 'Lobster', cursive;
   text-align: center;
 }
 .text h1 {
-  font-size: 1.4em;
+  font-size: 1.2em;
 }
 
 .card-front_inside {
@@ -377,7 +377,7 @@ font-family: 'Lobster', cursive;
 }
 
 .polaroid {
-  width: 240x;
+  width: 280x;
   height: 520px;
   position: absolute;
   float: left;
